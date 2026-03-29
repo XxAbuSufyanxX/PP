@@ -445,3 +445,4 @@ while running :
 # Pygame exit
 pygame.quit()
 sys.exit()
+if not enemies
